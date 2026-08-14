@@ -73,9 +73,9 @@ h1 {
     }
 
     #box_1 {
-        flex-direction: row;
+        flex-direction: column;
     }
     #box_4 {
-        flex-direction: row;
+        flex-direction: column;
     }
 }
